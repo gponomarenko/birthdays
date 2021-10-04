@@ -126,7 +126,7 @@ export const BirthDays: React.FunctionComponent<IBirthDaysProps> = (props) => {
             </>
            : <SpinnerBasicExample />
           }
-{/* 
+
           <div className={ styles.row }>
             <BirthDaysCard
               imageUrl={TestImages.personaFemale}
@@ -145,7 +145,7 @@ export const BirthDays: React.FunctionComponent<IBirthDaysProps> = (props) => {
               EMail="me@sp.com"
             />
           </div>         
-         */}
+
         </div>
       </div>
     );

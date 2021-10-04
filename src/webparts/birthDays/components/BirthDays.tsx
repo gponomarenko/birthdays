@@ -109,7 +109,7 @@ export const BirthDays: React.FunctionComponent<IBirthDaysProps> = (props) => {
         <div className={ styles.container }>
           {isLoaded
            ? <>
-              {filteredActualMonth.map(person => {
+              {filteredCloseBirthdays.map(person => {
                 return (
                   <div className={ styles.row }>
                     <BirthDaysCard

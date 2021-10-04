@@ -9,7 +9,6 @@ import BirthDaysCard from './BirthDaysCard';
 import { SpinnerBasicExample } from './BirthDaysSpinner';
 
 import { sp } from "@pnp/sp/presets/all";
-import { getYearEnd } from '@fluentui/react';
 
 export interface Iopt {
   month: "long";

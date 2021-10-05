@@ -1,12 +1,11 @@
 # birthdays
 
 ## Summary
-
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+Birthdays of employees. The app shows actual birthdays in the range from -2 to +5 days regards to now.
 
 ## Used SharePoint Framework Version
+"@microsoft/sp-core-library": "1.12.1"
+
 
 ![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
 
